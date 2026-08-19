@@ -10656,7 +10656,7 @@ do
 	Btn.BorderSizePixel = 0
 	Btn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Btn.AnchorPoint = Vector2.new(0, 1)
-	Btn.Image = "rbxassetid://126944035033117"
+	Btn.Image = "rbxassetid://74843701156215"
 	Btn.Size = UDim2.new(0, 50, 0, 50)
 	Btn.Position = UDim2.new(0.01, 0, 0.99, 0)
 	Btn.AutoButtonColor = true
