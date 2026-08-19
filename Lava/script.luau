@@ -1750,7 +1750,7 @@ function CheckQuest()
 	end;
 end;
 -- ===== vonlib (Redz) UI bootstrap =====
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/BloxFruits/refs/heads/main/Lavaui"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxfruitsnokey/Redz-Hub/refs/heads/main/Lava/ui.luau"))()
 
 local Window = Library:MakeWindow({
 	Title = "Lava Hub",
