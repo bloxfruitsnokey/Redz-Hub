@@ -271,7 +271,7 @@ Version="v1.1.0",
 GitHubOwner="von63rd"
 },
 Default={
-Theme="Emerald",
+Theme="Darker",
 UISize=UDim2.fromOffset(550,380),
 TabSize=160
 },
