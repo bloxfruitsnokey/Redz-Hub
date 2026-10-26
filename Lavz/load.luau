@@ -333,6 +333,7 @@ list.Parent = changelog
 --==================================================
 
 local changes = {
+    "Remove Bypass TP",
     "Fixed Elite Hunter",
     "Fixed Level 2500 Stuck",
     "Fixed Fruit Gacha",
