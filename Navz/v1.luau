@@ -333,22 +333,13 @@ list.Parent = changelog
 --==================================================
 
 local changes = {
-    "Remove Bypass TP",
-    "Fixed Elite Hunter",
-    "Fixed Level 2500 Stuck",
-    "Fixed Fruit Gacha",
-    "Fixed Bone Indicator",
-    "Fixed Raid Teleport / Island 4 Stuck",
-    "Added Kill Aura on Islands 4 & 5",
-    "Fixed Prehistoric",
-    "Fixed Dojo Quest",
-    "Fixed Tween Fruit",
-    "Fixed Bone Farm 3 Quest",
-    "Fixed Rip Indra",
-    "Fixed Fishing Animation",
-    "Fixed Pirate Raid",
-    "Fixed Raid",
-    "Fixed TTK",
+    "Halloween Event",
+    "Added Auto Trick or Treat",
+    "Added Auto Farm Pumpkin",
+    "Added Auto Kill Event Enemy",
+    "Added Auto Halloween Bosses",
+    "Added Auto Summon Great Pumpkin",
+    "Added Auto Spooky Gacha",
 }
 
 for i, change in ipairs(changes) do
