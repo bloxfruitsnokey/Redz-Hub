@@ -333,8 +333,8 @@ list.Parent = changelog
 --==================================================
 
 local changes = {
-    "Remove Old Halloween",
-    "Added Best Halloween",
+    "Fixed Some Bug",
+    "Change Loader",
 }
 
 for i, change in ipairs(changes) do
